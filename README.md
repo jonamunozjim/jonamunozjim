@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="250">
       <h3>Coalition</h3>
-      <h2>Your Coalition</h2>
+      <h2><img src="TU_ENLACE_AL_LOGO_DE_VOID_AQUI" width="30" align="center"> Void</h2>
     </td>
   </tr>
 </table>
@@ -39,14 +39,21 @@
   <h3>Common Core Progress</h3>
 </div>
 
-| Project | Status | Score | Key Concepts |
-| :--- | :---: | :---: | :--- |
-| **Libft** | 🟢 Completed | `100 / 100` | Dynamic memory, Linked lists (C) |
-| **ft_printf** | 🟢 Completed | `100 / 100` | Variadic functions, Parsing |
-| **get_next_line** | 🟢 Completed | `115 / 100` | File descriptors, Static variables |
-| **push_swap** | 🔵 In progress | `-` | Sorting algorithms, Optimization |
-| **minitalk** | ⚪ Pending | `-` | UNIX signals, Bitwise operations |
-| **so_long** | ⚪ Pending | `-` | 2D Graphics, Event handling (MiniLibX) |
+| Milestone | Project | Status | Score | Key Concepts |
+| :---: | :--- | :---: | :---: | :--- |
+| <kbd>M 0</kbd> | **Libft** | 🟢 Completed | `100 / 100` | Dynamic memory, Linked lists (C) |
+| <kbd>M 1</kbd> | **ft_printf** | 🟢 Completed | `100 / 100` | Variadic functions, Parsing |
+| | **get_next_line** | 🟢 Completed | `125 / 100` | File descriptors, Static variables |
+| <kbd>M 2</kbd> | **push_swap** | 🟢 Completed | `125 / 100` | Sorting algorithms, Optimization |
+| | **Python Module 00** | 🔵 In Progress | `-` | Basic Python, Syntax |
+| | **Python Module 01** | ⚪ Pending | `-` | Object-Oriented Programming (OOP) |
+| | **Python Module 02** | ⚪ Pending | `-` | Data structures, Arrays |
+| | **Python Module 03** | ⚪ Pending | `-` | Inheritance, Polymorphism |
+| | **Python Module 04** | ⚪ Pending | `-` | Built-in functions, Specificities |
+| | **Python Module 05** | ⚪ Pending | `-` | Exceptions, File I/O |
+| | **Python Module 06** | ⚪ Pending | `-` | Advanced OOP, Databases |
+| | **born2beroot** | ⚪ Pending | `-` | System administration, Virtualization |
+| | **A-Maze-ing** | ⚪ Pending | `-` | Pathfinding, Algorithms |
 
 ---
 
@@ -64,4 +71,4 @@ I now apply that same rigor to software development, specializing in secure code
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-**Connect with me:** [LinkedIn](your_linkedin_link)
+**Connect with me on:** [LinkedIn](es.linkedin.com/jonatanmunoz)
