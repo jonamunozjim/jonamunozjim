@@ -37,7 +37,7 @@
 
 
 <div align="center">
-  <h3>🚀 Common Core Progress</h3>
+  <h3>Common Core Progress</h3>
 </div>
 
 <table>
