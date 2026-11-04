@@ -79,43 +79,43 @@
     </tr>
     <tr>
       <td align="center" valign="middle" rowspan="9"><kbd>M 2</kbd></td>
-      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 00</strong></a></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_00"><strong>Python Module 00</strong></a></td>
       <td align="center">🔵 In Progress</td>
       <td align="center">-</td>
       <td align="left">Basic Python, Syntax</td>
     </tr>
     <tr>
-      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 01</strong></a></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_01"><strong>Python Module 01</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Object-Oriented Programming (OOP)</td>
     </tr>
     <tr>
-      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 02</strong></a></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_02"><strong>Python Module 02</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Data structures, Arrays</td>
     </tr>
     <tr>
-      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 03</strong></a></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_03"><strong>Python Module 03</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Inheritance, Polymorphism</td>
     </tr>
     <tr>
-      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 04</strong></a></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_04"><strong>Python Module 04</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Built-in functions, Specificities</td>
     </tr>
     <tr>
-      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 05</strong></a></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_05"><strong>Python Module 05</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Exceptions, File I/O</td>
     </tr>
     <tr>
-      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 06</strong></a></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_06"><strong>Python Module 06</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Advanced OOP, Databases</td>
