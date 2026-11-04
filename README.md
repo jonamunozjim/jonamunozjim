@@ -151,4 +151,4 @@ I now apply that same rigor to software development, specializing in secure code
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-**Connect with me on:** [LinkedIn]([es.linkedin.com/jonatanmunoz](http://linkedin.com/in/jonatanmunoz))
+**Connect with me on:** [LinkedIn](http://linkedin.com/in/jonatanmunoz)
