@@ -35,25 +35,105 @@
 
 <br>
 
+
 <div align="center">
-  <h3>Common Core Progress</h3>
+  <h3>🚀 Common Core Progress</h3>
 </div>
 
-| Milestone | Project | Status | Score | Key Concepts |
-| :---: | :--- | :---: | :---: | :--- |
-| <kbd>M 0</kbd> | **Libft** | 🟢 Completed | `100 / 100` | Dynamic memory, Linked lists (C) |
-| <kbd>M 1</kbd> | **ft_printf** | 🟢 Completed | `100 / 100` | Variadic functions, Parsing |
-| | **get_next_line** | 🟢 Completed | `125 / 100` | File descriptors, Static variables |
-| <kbd>M 2</kbd> | **push_swap** | 🟢 Completed | `125 / 100` | Sorting algorithms, Optimization |
-| | **Python Module 00** | 🔵 In Progress | `-` | Basic Python, Syntax |
-| | **Python Module 01** | ⚪ Pending | `-` | Object-Oriented Programming (OOP) |
-| | **Python Module 02** | ⚪ Pending | `-` | Data structures, Arrays |
-| | **Python Module 03** | ⚪ Pending | `-` | Inheritance, Polymorphism |
-| | **Python Module 04** | ⚪ Pending | `-` | Built-in functions, Specificities |
-| | **Python Module 05** | ⚪ Pending | `-` | Exceptions, File I/O |
-| | **Python Module 06** | ⚪ Pending | `-` | Advanced OOP, Databases |
-| | **born2beroot** | ⚪ Pending | `-` | System administration, Virtualization |
-| | **A-Maze-ing** | ⚪ Pending | `-` | Pathfinding, Algorithms |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Milestone</th>
+      <th align="left">Project</th>
+      <th align="center">Status</th>
+      <th align="center">Score</th>
+      <th align="left">Key Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle"><kbd>M 0</kbd></td>
+      <td align="left"><strong>Libft</strong></td>
+      <td align="center">🟢 Completed</td>
+      <td align="center"><code>100 / 100</code></td>
+      <td align="left">Dynamic memory, Linked lists (C)</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" rowspan="2"><kbd>M 1</kbd></td>
+      <td align="left"><strong>ft_printf</strong></td>
+      <td align="center">🟢 Completed</td>
+      <td align="center"><code>100 / 100</code></td>
+      <td align="left">Variadic functions, Parsing</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>get_next_line</strong></td>
+      <td align="center">🟢 Completed</td>
+      <td align="center"><code>125 / 100</code></td>
+      <td align="left">File descriptors, Static variables</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" rowspan="10"><kbd>M 2</kbd></td>
+      <td align="left"><strong>push_swap</strong></td>
+      <td align="center">🟢 Completed</td>
+      <td align="center"><code>125 / 100</code></td>
+      <td align="left">Sorting algorithms, Optimization</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Python Module 00</strong></td>
+      <td align="center">🔵 In Progress</td>
+      <td align="center">-</td>
+      <td align="left">Basic Python, Syntax</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Python Module 01</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Object-Oriented Programming (OOP)</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Python Module 02</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Data structures, Arrays</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Python Module 03</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Inheritance, Polymorphism</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Python Module 04</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Built-in functions, Specificities</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Python Module 05</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Exceptions, File I/O</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Python Module 06</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Advanced OOP, Databases</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>born2beroot</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">System administration, Virtualization</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>A-Maze-ing</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Pathfinding, Algorithms</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
