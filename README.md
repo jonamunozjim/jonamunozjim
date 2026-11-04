@@ -59,7 +59,7 @@
       <td align="left">Dynamic memory, Linked lists (C)</td>
     </tr>
     <tr>
-      <td align="center" valign="middle" rowspan="2"><kbd>M 1</kbd></td>
+      <td align="center" valign="middle" rowspan="3"><kbd>M 1</kbd></td>
       <td align="left"><strong>ft_printf</strong></td>
       <td align="center">🟢 Completed</td>
       <td align="center"><code>100 / 100</code></td>
@@ -72,13 +72,13 @@
       <td align="left">File descriptors, Static variables</td>
     </tr>
     <tr>
-      <td align="center" valign="middle" rowspan="10"><kbd>M 2</kbd></td>
       <td align="left"><strong>push_swap</strong></td>
       <td align="center">🟢 Completed</td>
       <td align="center"><code>125 / 100</code></td>
       <td align="left">Sorting algorithms, Optimization</td>
     </tr>
     <tr>
+      <td align="center" valign="middle" rowspan="9"><kbd>M 2</kbd></td>
       <td align="left"><strong>Python Module 00</strong></td>
       <td align="center">🔵 In Progress</td>
       <td align="center">-</td>
