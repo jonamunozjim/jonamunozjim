@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="80" alt="42 Logo">
-  <h1> Jonatan (jmunoz-j)| 42 Málaga Fundación Telefónica Dashboard</h1>
+  <h1> Jonatan (jmunoz-j)| 42 Málaga Fundación Telefónica | Dashboard</h1>
   <p><i>Software Developer | Quality Engineering | Cursus Student</i></p>
 </div>
 
