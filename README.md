@@ -18,7 +18,7 @@
     </td>
     <td align="center" width="250">
       <h3>Coalition</h3>
-      <h2><img src="TU_ENLACE_AL_LOGO_DE_VOID_AQUI" width="30" align="center"> Void</h2>
+      <h2><img src="void_logo.png" width="30" align="center"> Void</h2>
     </td>
   </tr>
 </table>
