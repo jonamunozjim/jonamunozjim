@@ -119,4 +119,40 @@
       <td align="left">Exceptions, File I/O</td>
     </tr>
     <tr>
-      <td align="left"><a href="https
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_06"><strong>Python Module 06</strong></a></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Advanced OOP, Databases</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>born2beroot</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">System administration, Virtualization</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>A-Maze-ing</strong></td>
+      <td align="center">⚪ Pending</td>
+      <td align="center">-</td>
+      <td align="left">Pathfinding, Algorithms</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Tech Stack & Background
+
+I bring over 10 years of experience as a Quality Engineer in the automotive sector, which has forged a mindset based on **root cause analysis**, **continuous improvement (Six Sigma)**, and **strict adherence to standards**. 
+
+I now apply that same rigor to software development, specializing in secure code, manual memory management, and robust architectures.
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+**Connect with me on:** [LinkedIn](http://linkedin.com/in/jonatanmunoz)
