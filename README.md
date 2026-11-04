@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="80" alt="42 Logo">
-  <h2> Jonatan (jmunoz-j) | 42 Málaga Fundación Telefónica | Dashboard</h2>
+  <h2> Jonatan (jmunoz-j)| 42 Málaga Fundación Telefónica | Dashboard</h2>
   <p><i>Software Developer | Quality Engineering | Cursus Student</i></p>
 </div>
 
@@ -53,69 +53,69 @@
   <tbody>
     <tr>
       <td align="center" valign="middle"><kbd>M 0</kbd></td>
-      <td align="left"><strong>Libft</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/M0-libft"><strong>Libft</strong></a></td>
       <td align="center">🟢 Completed</td>
       <td align="center"><code>100 / 100</code></td>
       <td align="left">Dynamic memory, Linked lists (C)</td>
     </tr>
     <tr>
       <td align="center" valign="middle" rowspan="3"><kbd>M 1</kbd></td>
-      <td align="left"><strong>ft_printf</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/M1_ft_printf"><strong>ft_printf</strong></a></td>
       <td align="center">🟢 Completed</td>
       <td align="center"><code>100 / 100</code></td>
       <td align="left">Variadic functions, Parsing</td>
     </tr>
     <tr>
-      <td align="left"><strong>get_next_line</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/M1_get_next_line"><strong>get_next_line</strong></a></td>
       <td align="center">🟢 Completed</td>
       <td align="center"><code>125 / 100</code></td>
       <td align="left">File descriptors, Static variables</td>
     </tr>
     <tr>
-      <td align="left"><strong>push_swap</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/M1_push_swap"><strong>push_swap</strong></a></td>
       <td align="center">🟢 Completed</td>
       <td align="center"><code>125 / 100</code></td>
       <td align="left">Sorting algorithms, Optimization</td>
     </tr>
     <tr>
       <td align="center" valign="middle" rowspan="9"><kbd>M 2</kbd></td>
-      <td align="left"><strong>Python Module 00</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 00</strong></a></td>
       <td align="center">🔵 In Progress</td>
       <td align="center">-</td>
       <td align="left">Basic Python, Syntax</td>
     </tr>
     <tr>
-      <td align="left"><strong>Python Module 01</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 01</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Object-Oriented Programming (OOP)</td>
     </tr>
     <tr>
-      <td align="left"><strong>Python Module 02</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 02</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Data structures, Arrays</td>
     </tr>
     <tr>
-      <td align="left"><strong>Python Module 03</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 03</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Inheritance, Polymorphism</td>
     </tr>
     <tr>
-      <td align="left"><strong>Python Module 04</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 04</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Built-in functions, Specificities</td>
     </tr>
     <tr>
-      <td align="left"><strong>Python Module 05</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 05</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Exceptions, File I/O</td>
     </tr>
     <tr>
-      <td align="left"><strong>Python Module 06</strong></td>
+      <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules"><strong>Python Module 06</strong></a></td>
       <td align="center">⚪ Pending</td>
       <td align="center">-</td>
       <td align="left">Advanced OOP, Databases</td>
