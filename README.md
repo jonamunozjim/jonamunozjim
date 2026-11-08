@@ -84,13 +84,13 @@
     <tr>
       <td align="center" valign="middle" rowspan="9"><kbd>M 2</kbd></td>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_00"><strong>Python Module 00</strong></a></td>
-      <td align="center">🔵 In Progress</td>
-      <td align="center">-</td>
+      <td align="center">🟢 Completed</td>
+      <td align="center">100 / 100</td>
       <td align="left">Basic Python, Syntax</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_01"><strong>Python Module 01</strong></a></td>
-      <td align="center">⚪ Pending</td>
+      <td align="center">🔵 In Progress</td>
       <td align="center">-</td>
       <td align="left">Object-Oriented Programming (OOP)</td>
     </tr>
