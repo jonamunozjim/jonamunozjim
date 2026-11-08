@@ -35,7 +35,7 @@
 
 | Milestone 0 | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Milestone 5 | Milestone 6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <code>🟢 Completed</code> | <code>🟢 Completed</code> | <code>🔵 In Progress</code> | <code>⚪ Pending</code> | <code>⚪ Pending</code> | <code>⚪ Pending</code> | <code⚪ Pending</code> |
+| <code>🟢 Completed</code> | <code>🟢 Completed</code> | <code>🔵 In Progress</code> | <code>⚪ Pending</code> | <code>⚪ Pending</code> | <code>⚪ Pending</code> | <code>⚪ Pending</code> |
 
 <br>
 
