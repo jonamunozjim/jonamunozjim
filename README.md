@@ -90,13 +90,13 @@
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_01"><strong>Python Module 01</strong></a></td>
-      <td align="center">🔵 In Progress</td>
-      <td align="center">-</td>
+      <td align="center">🟢 Completed</td>
+      <td align="center"><code>100 / 100</code></td>
       <td align="left">Object-Oriented Programming (OOP)</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_02"><strong>Python Module 02</strong></a></td>
-      <td align="center">⚪ Pending</td>
+      <td align="center">🔵 In Progress</td>
       <td align="center">-</td>
       <td align="left">Data structures, Arrays</td>
     </tr>
