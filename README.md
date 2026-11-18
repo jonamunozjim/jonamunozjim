@@ -82,7 +82,7 @@
       <td align="left">Sorting algorithms, Optimization</td>
     </tr>
     <tr>
-      <td align="center" valign="middle" rowspan="9"><kbd>M 2</kbd></td>
+      <td align="center" valign="middle" rowspan="9"><kbd>🔒M 2</kbd></td>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_00"><strong>Python Module 00</strong></a></td>
       <td align="center">🟢 Completed</td>
       <td align="center"><code>100 / 100</code></td>
