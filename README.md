@@ -96,25 +96,25 @@
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_02"><strong>Python Module 02</strong></a></td>
-      <td align="center">🔵 In Progress</td>
-      <td align="center">-</td>
+      <td align="center">🟢 Completed</td>
+      <td align="center"><code>100 / 100</code></td>
       <td align="left">Data structures, Arrays</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_03"><strong>Python Module 03</strong></a></td>
-      <td align="center">⚪ Pending</td>
-      <td align="center">-</td>
+      <td align="center">🟢 Completed</td>
+      <td align="center"><code>100 / 100</code></td>
       <td align="left">Inheritance, Polymorphism</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_04"><strong>Python Module 04</strong></a></td>
-      <td align="center">⚪ Pending</td>
-      <td align="center">-</td>
+      <td align="center">🟢 Completed</td>
+      <td align="center"><code>100 / 100</code></td>
       <td align="left">Built-in functions, Specificities</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/jonamunozjim/Python_Modules/tree/main/Python_Module_05"><strong>Python Module 05</strong></a></td>
-      <td align="center">⚪ Pending</td>
+      <td align="center">🔵 In Progress</td>
       <td align="center">-</td>
       <td align="left">Exceptions, File I/O</td>
     </tr>
